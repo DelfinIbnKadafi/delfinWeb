@@ -23,3 +23,4 @@ signs in using the password in `.env`. Never commit `.env`; message history and
 login details are private server data.
 Run `npm test --prefix chat` to check the private chat, owner replies, and
 persistent message history locally.
+
