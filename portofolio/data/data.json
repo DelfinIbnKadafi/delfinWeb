@@ -33,7 +33,7 @@
       "description": "A high-level programming language with readable syntax, built from scratch in C.",
       "language": "C",
       "category": "Programming Language",
-      "image": "https://images-ext-1.discordapp.net/external/YzxLkaZydad6-31qMbkT4fVXfAKJ9YXifK-ZcZXTDUI/https/opengraph.githubassets.com/d932771914c9f9ed498d7caa0e4c82081c4b3a3b8c4fc14a28483d7939ec7901/DelfinIbnKadafi/El-Language?format=webp",
+      "image": "https://ondemand.bannerbear.com/signedurl/9K5qxXae32jEAGRDkj/image.jpg?modifications=W3sibmFtZSI6InJlcG8iLCJ0ZXh0IjoiRGVsZmluSWJuS2FkYWZpIC8gKkVsLUxhbmd1YWdlKiJ9LHsibmFtZSI6ImRlc2MiLCJ0ZXh0IjoiSGlnaCBMZXZlbCBQcm9ncmFtbWluZyBMYW5ndWFnZSBVc2luZyBWaXJ0dWFsIE1hY2hpbmUifSx7Im5hbWUiOiJhdmF0YXI1IiwiaGlkZSI6dHJ1ZX0seyJuYW1lIjoiYXZhdGFyNCIsImhpZGUiOnRydWV9LHsibmFtZSI6ImF2YXRhcjMiLCJoaWRlIjp0cnVlfSx7Im5hbWUiOiJhdmF0YXIyIiwiaGlkZSI6dHJ1ZX0seyJuYW1lIjoiYXZhdGFyMSIsImltYWdlX3VybCI6Imh0dHBzOi8vYXZhdGFycy5naXRodWJ1c2VyY29udGVudC5jb20vdS8yNDE3MTQwNjQ_dj00In0seyJuYW1lIjoiY29udHJpYnV0b3JzIiwidGV4dCI6IkRlbGZpbklibkthZGFmaSJ9LHsibmFtZSI6InN0YXJzIiwidGV4dCI6IjUifV0&s=6756b16cb6d242240616ff64eea9ec6395fffad721caaa9346dffdca0c6abbf7",
       "status": "In Development",
       "url": "https://github.com/DelfinIbnKadafi/El-Language"
     },
@@ -42,7 +42,7 @@
       "description": "Ingame Mapping is a filterscripts for samp/openmp gamemode. Usually we use another gamemode/server only for making a new mapping,\nbut with Ingame Mapping, you can make mapping in your real time server, so all system, mapping, and all things in your server\nwill show while you make the mapping. Beside mapping ingame, your mapping also exported to txt files with CreateDynamicObject functions.",
       "language": "Pawn",
       "category": "Sidescript SA-MP/OPEN.MP",
-      "image": "https://images-ext-1.discordapp.net/external/fbtoXJJESC7JLzKxObu0VMHgFsr532fLj4YWkGfSNxo/https/opengraph.githubassets.com/5600d6eaa870397ae090d4334825f0f1906c5491e7de020e40afe215a01bd88a/DelfinIbnKadafi/Ingame-Mapping?format=webp",
+      "image": "https://ondemand.bannerbear.com/signedurl/OJ07pvDElJgVPmKbdB/image.jpg?modifications=W3sibmFtZSI6InJlcG8iLCJ0ZXh0IjoiRGVsZmluSWJuS2FkYWZpIC8gKkluZ2FtZS1NYXBwaW5nKiJ9LHsibmFtZSI6ImRlc2MiLCJ0ZXh0IjoiU0EtTVAvT1BFTi5NUCBJbmdhbWUgTWFwcGluZyBGaWx0ZXJzY3JpcHRzIn0seyJuYW1lIjoiYXZhdGFyNSIsImhpZGUiOnRydWV9LHsibmFtZSI6ImF2YXRhcjQiLCJoaWRlIjp0cnVlfSx7Im5hbWUiOiJhdmF0YXIzIiwiaGlkZSI6dHJ1ZX0seyJuYW1lIjoiYXZhdGFyMiIsImhpZGUiOnRydWV9LHsibmFtZSI6ImF2YXRhcjEiLCJpbWFnZV91cmwiOiJodHRwczovL2F2YXRhcnMuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3UvMjQxNzE0MDY0P3Y9NCJ9LHsibmFtZSI6ImNvbnRyaWJ1dG9ycyIsInRleHQiOiJEZWxmaW5JYm5LYWRhZmkifSx7Im5hbWUiOiJzdGFycyIsInRleHQiOiIxIn1d&s=9b20c5bc002b67bcbe9406a572cb7c3163e68a30c5c28f65b5028a0560096db3",
       "status": "In Development",
       "url": "https://github.com/DelfinIbnKadafi/Ingame-Mapping"
     },
@@ -52,8 +52,17 @@
       "language": "Pawn",
       "category": "SA-MP Roleplay Gamemode",
       "image": "https://images-ext-1.discordapp.net/external/-JEHi3UmjssdqFSdQVS2G7sH1318XTOsQoqNIbsMEQ4/https/opengraph.githubassets.com/093079d0f249cb5fe262d088e514275576534bd21028fb51d03c4061d55d92bf/DelfinIbnKadafi/Detroit-Roleplay?format=webp",
-      "status": "Open Source",
+      "status": "In Development",
       "url": "https://github.com/DelfinIbnKadafi/Detroit-Roleplay"
+    },
+    {
+      "name": "Delfin Discord Bot",
+      "description": "Official Delfin's discord bot with interesting features, including a ai chat bot, and more.",
+      "category": "Discord Bot",
+      "language": "JavaScript",
+      "status":"In Development",
+      "url": "https://github.com/DelfinIbnKadafi/DelfinDiscordBot",
+      "image": "https://ondemand.bannerbear.com/signedurl/5kBNAm9EpN1VKXb4Yo/image.jpg?modifications=W3sibmFtZSI6InJlcG8iLCJ0ZXh0IjoiRGVsZmluSWJuS2FkYWZpIC8gKkRlbGZpbkRpc2NvcmRCb3QqIn0seyJuYW1lIjoiZGVzYyIsInRleHQiOiJPZmZpY2lhbCBkZWxmaW5zJ3MgYm90IGRpc2NvcmQuIn0seyJuYW1lIjoiYXZhdGFyNSIsImhpZGUiOnRydWV9LHsibmFtZSI6ImF2YXRhcjQiLCJoaWRlIjp0cnVlfSx7Im5hbWUiOiJhdmF0YXIzIiwiaGlkZSI6dHJ1ZX0seyJuYW1lIjoiYXZhdGFyMiIsImhpZGUiOnRydWV9LHsibmFtZSI6ImF2YXRhcjEiLCJpbWFnZV91cmwiOiJodHRwczovL2F2YXRhcnMuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3UvMjQxNzE0MDY0P3Y9NCJ9LHsibmFtZSI6ImNvbnRyaWJ1dG9ycyIsInRleHQiOiJEZWxmaW5JYm5LYWRhZmkifSx7Im5hbWUiOiJzdGFycyIsInRleHQiOiIwIn1d&s=0f52b2aa32e0226649fab6ea66fe81060f85d96de7ec88ce32141b52fa300f23"
     }
   ]
 }
